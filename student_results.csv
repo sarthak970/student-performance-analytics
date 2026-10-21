@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python_Marks,SQL_Marks,Statistics_Marks,Pandas_Marks,Attendance_Percent,Total_Marks,Average_Marks,Grade,Result
+STU001,Aarav Sharma,CSE,86,78,91,88,92,343,85.75,A,Pass
+STU002,Diya Patel,AIML,92,89,95,90,96,366,91.5,A+,Pass
+STU003,Rohan Verma,ECE,67,72,70,75,81,284,71.0,B,Pass
+STU004,Ananya Singh,CSE,74,81,77,79,89,311,77.75,B,Pass
+STU005,Kabir Gupta,AIML,58,64,61,69,76,252,63.0,C,Pass
+STU006,Meera Iyer,IT,95,93,97,96,98,381,95.25,A+,Pass
+STU007,Arjun Rao,ECE,45,52,49,55,68,201,50.25,D,Pass
+STU008,Ishita Das,CSE,81,84,79,86,91,330,82.5,A,Pass
+STU009,Vivaan Nair,IT,72,68,75,70,84,285,71.25,B,Pass
+STU010,Sara Khan,AIML,88,91,86,89,95,354,88.5,A,Pass
+STU011,Aditya Joshi,CSE,39,44,48,42,59,173,43.25,F,Fail
+STU012,Priya Menon,IT,77,80,82,78,93,317,79.25,B,Pass
+STU013,Reyansh Jain,ECE,63,59,66,61,73,249,62.25,C,Pass
+STU014,Aanya Kapoor,AIML,90,87,92,94,97,363,90.75,A+,Pass
+STU015,Kunal Mehta,CSE,54,57,60,52,71,223,55.75,D,Pass
+STU016,Nisha Roy,IT,83,76,88,85,90,332,83.0,A,Pass
+STU017,Dev Malhotra,ECE,48,46,51,44,62,189,47.25,F,Pass
+STU018,Tara Bose,AIML,69,74,71,73,86,287,71.75,B,Pass
+STU019,Ibrahim Ali,IT,97,94,93,98,99,382,95.5,A+,Pass
+STU020,Kavya Reddy,CSE,61,65,58,67,79,251,62.75,C,Pass
