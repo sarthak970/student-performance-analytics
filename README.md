@@ -1,7 +1,7 @@
 # Student Performance Analytics System
 
 **Course:** Python with AI  
-**Student name:** Add your name  
+**Student name:** Sarthak Rana 
 **Project type:** Python data analysis mini project
 
 ## Objective
